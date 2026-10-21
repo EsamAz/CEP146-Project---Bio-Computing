@@ -1,0 +1,22 @@
+Bio Computing and Data Research - Esam Aziez
+
+Forward
+Biocomputing is now at the intersection of computer science, biology, and data engineering.
+Because traditional silicon based storage is starting to reach its maximum capacity, both
+when it comes to energy and stored data density, synthetic biology has started to offer a
+workaround through the use of cellular/molecular biology combined with tech componenets.
+As of right now, since this technology is rather new, scientists have currently started
+using it to process various different types of information.
+
+Core Concepts In This New Technology
+Recent studies demonstrate that engineered bacteria can implement logical computations using 
+spatial diffusion and gene circuits, creating new and upcoming digital processing behavior inside 
+biological media (Fedorec et al., 2024). This approach turns cellular structures into decentralized 
+micro-processors capable of handling complex biological and computational data simultaneously, 
+minimizing traditional silicon hardware needed whilst operating freely inside wetware environments.
+
+Synthetic neuromorphic computing inside living cells has started bridging traditional artificial 
+neural network architectures with organic wetware, allowing for adaptive logic operations at a cellular 
+level (Rizik et al., 2022). By copying biological neural pathways through molecular engineering, 
+these systems can process variable data dynamically with exceptionally low power consumption compared 
+to standard digital hardware, opening doors for biological sensors and organic processors.
