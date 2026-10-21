@@ -1,6 +1,6 @@
 Bio Computing and Data Research - Esam Aziez
 
-Forward
+--Forward--
 Biocomputing is now at the intersection of computer science, biology, and data engineering.
 Because traditional silicon based storage is starting to reach its maximum capacity, both
 when it comes to energy and stored data density, synthetic biology has started to offer a
@@ -8,7 +8,7 @@ workaround through the use of cellular/molecular biology combined with tech comp
 As of right now, since this technology is rather new, scientists have currently started
 using it to process various different types of information.
 
-Core Concepts In This New Technology
+--Core Concepts In This New Technology--
 Recent studies demonstrate that engineered bacteria can implement logical computations using 
 spatial diffusion and gene circuits, creating new and upcoming digital processing behavior inside 
 biological media (Fedorec et al., 2024). This approach turns cellular structures into decentralized 
@@ -20,3 +20,24 @@ neural network architectures with organic wetware, allowing for adaptive logic o
 level (Rizik et al., 2022). By copying biological neural pathways through molecular engineering, 
 these systems can process variable data dynamically with exceptionally low power consumption compared 
 to standard digital hardware, opening doors for biological sensors and organic processors.
+
+Looking beyond traditional computing, fields like organoid intelligence combine lab grown brain cells
+(cerebral organoids) with advanced microelectrode arrays (MEAs) to create biocomputing architectures 
+capable of high density processing and learning algorithms (Smirnova et al., 2023). This technology 
+uses the power of living neural tissue to handle cognitive computational tasks, advanced pattern 
+recognition, and adaptive learning organically.
+
+--Challenegs Faced in The Software and Algorithims--
+Implementing biocomputing frameworks requires efficient, reliable software engineering, specialized 
+pipelines, and advanced algorithmic models:
+
+Converting standard digital binary code (0s and 1s) into complex 
+sequences (Adenine, Cytosine,  Guanine, Thymine) without introducing structural degradation. Software 
+layers must manage precise jobs requiring mapping to ensure that automated biological synthesis platforms 
+can accurately recreate the original digital files without data corruption, loss, or translation errors.
+
+Utilizing specialized algorithms (analogous to Reed-Solomon or custom sequence error correction) to 
+handle mutations, missing base pairs, or reading errors during biological synthesis and sequencing 
+phases. Because biological mediums are prone to natural degradation, cellular noise, and read/write 
+errors, specialized error-correcting codes are essential for ensuring absolute data integrity over 
+long-term archival storage.
